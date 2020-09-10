@@ -1,0 +1,50 @@
+h2 {
+  color: #000000;
+  background-color: #F8E0E0;
+}
+
+h4 {
+  color: #000000;
+  background-color: #F5DA81
+}
+
+p {
+ color: #ffffff;
+ background-color: #000000;
+}
+
+a:link {
+ color: #ff0000;
+}
+
+a:visited {
+  color: #0000ff;
+}
+
+a:hover {
+ color: #ffff00;
+ text-decoration: underline;
+}
+
+#fortheid {
+ color: #AC58FA;
+ background-color: #173B0B;
+}
+
+.fortheclass {
+  color: #F4F1B4;
+  background-color: #12AC6F;
+}
+
+.yummyspan {
+  color: #2ECCFA;
+}
+
+.yuckyspan {
+  color: #80FF00;
+}
+
+#div {
+  color: #F79F81;
+  background-color: #3B0B39;
+}
