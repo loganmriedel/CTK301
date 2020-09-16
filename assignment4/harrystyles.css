@@ -1,0 +1,53 @@
+.customtext {
+  font-family: sans-serif;
+}
+
+.textcenter {
+text-align: center;
+}
+
+.textjustify {
+text-align: justify;
+}
+
+h1 {
+  color: #F4910F;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h2 {
+  color: #F4910F;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h3 {
+  color: #F4910F;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h4 {
+  color: #F4910F;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h5 {
+  color: #F4910F;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.imgbox {
+  border: 20px solid #000000;
+  padding: 30px;
+  background-color: #ffffff;
+}
+
+body {
+  background-image: url(slightblue.jpg);
+  background-repeat: repeat;
+
+}
