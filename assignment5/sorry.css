@@ -98,7 +98,7 @@ a {
 
 .ratedr {
   display: block;
-  width: 20%;
+  max-width: 100px;
   height: auto;
   margin-left: 150px;
 
